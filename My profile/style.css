@@ -1,0 +1,65 @@
+body {
+  color: rgb(81, 59, 59);
+  
+}
+img {
+  max-width: 100%;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.wrapper {
+  max-width: 930px;
+  margin: 0 auto;
+}
+#header {
+  display: flex;
+  justify-content: space-around;
+}
+#header ul {
+  display: flex;
+  padding: 10px 0;
+}
+#header li {
+  padding-left: 20px;
+}
+#header a {
+  color: black;
+}
+#header h1 {
+  background-color: rgb(27, 123, 27);
+  color: white;
+  padding: 0 10px;
+}
+#mainvisual {
+  margin-bottom: 80px;
+  text-align: center;
+}
+#mainvisual img {
+  width: 70%;
+  height: 600px;
+}
+#about {
+  text-align: center;
+}
+#introduction {
+   display: flex;
+   justify-content: center;
+}
+#introduction img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+}
+#skill {
+  text-align: center;
+}
+th {
+  width: 300px; 
+  margin: 0 auto;
+}
+
+
